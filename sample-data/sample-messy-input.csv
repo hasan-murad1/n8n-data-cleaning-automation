@@ -1,0 +1,11 @@
+EmployeeID,FullName,Age,Gender,Department,Designation,Email,Phone,City,Country,JoinDate,Salary,Status
+EMP10001,Rahim Ahmed,28,Male,HR,Executive,rahim.ahmed@gmail.com,01712345678,Dhaka,Bangladesh,2022-01-15,45000,Active
+EMP10002,Sadia Islam,,F,it,Manager,sadia.islamgmail.com,01898765432,Chattogram,BD,05/20/2023,52000,active
+EMP10003,Karim Rahman,34,male,markting,Officer,karim.rahman@yahoo.com,1655544433,Sylhet,bangladesh,26/12/2018,-38000,ACTIVE
+EMP10004,Farzana Akter,45,Female,Finance,Senior Executive,,01911223344,Dhaka,Bangladesh,,21000,Inactive
+EMP10005,Rahim Ahmed,28,Male,HR,Executive,rahim.ahmed@gmail.com,01712345678,Dhaka,Bangladesh,2022-01-15,45000,Active
+EMP10006,Shakil Khan,N/A,m,Sales,Team Lead,shakil.khan@outlook.com,01777889900,Khulna,Bangladesh,3/18/2015,Not Provided,pending
+EMP10007,Rubel Hossain,29,Male,I.T.,Analyst,rubel.h@gmail.com,,Rajshahi,Bangladesh,22-08-2023,56000,Active
+EMP10008,<p>Nasrin Sultana</p>,38,Female,fin,Coordinator,nasrin.s@gmail.com,01822334455,Dhaka,Bangladesh,2022-12-19,-49200,Active
+EMP10009,Arif Chowdhury,,Male,Business Intelligence,Associate,arif.c@gmail.com,01699887766,Barisal,Bangladesh,N/A,34000,onleave
+EMP10010,Ayesha Siddiqua,24,female,Sales,Executive,ayesha.s@gmail.com,01744556677,Dhaka,Bangladesh,2023-06-25,28000,Active
