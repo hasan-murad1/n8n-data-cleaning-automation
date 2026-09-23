@@ -86,7 +86,7 @@ To adapt this for a different industry (e.g. retail/grocery — price, stock qua
 
 ## Sample data
 
-[`sample-data/sample-messy-input.csv`](./sample-data/sample-messy-input.csv) is a small synthetic dataset (fabricated names/data, no real records) demonstrating the issues this pipeline catches: missing values, an exact duplicate row, mixed date formats, a negative salary, email/phone typos, an embedded HTML tag, and an unrecognized department — useful for a quick end-to-end test.
+[`sample-data/sample-messy-input.csv`](./sample-data/BD_CompanyDataset_Demo_1500Row.csv) is a small synthetic dataset (fabricated names/data, no real records) demonstrating the issues this pipeline catches: missing values, an exact duplicate row, mixed date formats, a negative salary, email/phone typos, an embedded HTML tag, and an unrecognized department — useful for a quick end-to-end test.
 
 ---
 
