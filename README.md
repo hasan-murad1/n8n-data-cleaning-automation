@@ -27,6 +27,11 @@ Manually cleaning spreadsheets — fixing formats, removing duplicates, catching
 - **Error handling**: a separate Error Workflow catches failures and emails an alert automatically
 
 ---
+## 🎥 Demo
+
+See it in action — a real 1,500-row dataset cleaned end-to-end in under a minute:
+
+👉 [Watch the demo on LinkedIn](https://lnkd.in/p/gRuibnu2)
 
 ## Architecture
 
